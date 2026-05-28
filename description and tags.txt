@@ -1,0 +1,21 @@
+==================================================
+ GITHUB REPOSITORY -- DESCRIPTION & TOPICS
+==================================================
+
+DESCRIPTION:
+--------------------------------------------------
+Organizes multiple account environments with profile-level configuration and access control.
+
+==================================================
+
+TOPICS / TAGS:
+--------------------------------------------------
+adspower
+browser
+business
+accounts
+profiles
+team
+workspace
+
+--------------------------------------------------
